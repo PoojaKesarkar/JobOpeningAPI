@@ -8,6 +8,6 @@ Clone the project.
 
 Import the database export file.
 
-Change the server name in the appsetting.json file.
+Change the server name in the appsettings.json file.
 
 Run the solution.
